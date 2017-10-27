@@ -1,4 +1,3 @@
-//new app
 var trainName = "";
 
 var destination = "";
